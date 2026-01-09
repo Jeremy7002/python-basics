@@ -37,7 +37,7 @@ def main():
                 sub(num1, num2)
             elif choice == '3':
                 multiply(num1, num2)
-            elif choice == '4':
+            else:
                 divide(num1, num2)
                 
 if __name__ == "__main__":
